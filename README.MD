@@ -2,7 +2,9 @@
 
 # Architecture 
 I chose Symfony, Doctrine and FosRestBundle to build this API
+
 doctrine helps with the parent / child hierarchy for categories 
+
 FosRestBundle provides an easy interface and annotations for bulding RESTful APIs
 
 # Usage
