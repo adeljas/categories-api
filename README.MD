@@ -10,4 +10,5 @@ FosRestBundle provides an easy interface and annotations for bulding RESTful API
 # Usage
 - clone the repository
 - run "vagrant up" ( prerequisits: Vagrant and VirtualBox )
+- vagrant plugin install vagrant-vbguest
 - navigate to http://localhost:8080 this will show the API documentation dashboard
